@@ -19,7 +19,7 @@ gem 'caxlsx'
 gem 'cocoon'
 gem 'countries'
 gem 'devise'
-gem 'devise_invitable', '~> 2.0.5', '< 2.0.6' # 2.0.6 breaks the user creation
+gem 'devise_invitable', '~> 2.0.8' # 2.0.6 breaks the user creation
 gem 'dotenv-rails'
 gem 'draper'
 gem 'dry-validation'
