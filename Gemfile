@@ -6,8 +6,8 @@ git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 ruby RUBY_VERSION
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'activerecord-sqlserver-adapter', '~> 6.0'
-gem 'rails', '~> 6.0.5', '>= 6.0.6.1'
+gem 'activerecord-sqlserver-adapter', '~> 7.0'
+gem 'rails', '~> 7.0.4'
 gem 'scenic', '~> 1.5', '>= 1.5.4'
 gem 'scenic_sqlserver_adapter'
 
