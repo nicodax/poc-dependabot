@@ -9,7 +9,7 @@
     "@nathanvda/cocoon": "^1.2.14",
     "@rails/actioncable": "^6.0.0",
     "@rails/activestorage": "^6.0.0",
-    "@rails/ujs": "^6.0.0",
+    "@rails/ujs": "^7.0.4",
     "@rails/webpacker": "4.2.2",
     "cleave.js": "^1.6.0",
     "flag-icon-css": "^3.5.0",
